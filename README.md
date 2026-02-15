@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Sales Dashboard using Pivot Tables and Pivot
+Sales Dashboard using Pivot Tables and Pivot Charts
